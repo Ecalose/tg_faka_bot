@@ -2,7 +2,7 @@
 [查看维护日志](https://github.com/devourbots/tg_faka_bot/wiki/%E9%A1%B9%E7%9B%AE%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
 
 这是一个Telegram 发卡机器人，此机器人基于Python开发，在Python 3.7运行环境测试通过。
-Telegram 交流反馈群组 [点击加入](https://t.me/joinchat/HO9r-CLAudrxugPY)
+Telegram 交流反馈群组 [点击加入](https://t.me/devourbots)
 
 
 
